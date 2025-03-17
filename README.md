@@ -2,7 +2,7 @@
 
 ## À propos de moi
 
-Je suis actuellement en Terminale NSI, passionné par le développement, la sécurité informatique et les technologies web. Grâce à mes projets personnels et mes participations à divers challenges CTF, j'ai acquis de solides compétences techniques que je continue d'approfondir.
+Je suis actuellement en Terminale, passionné par le développement, la sécurité informatique et les technologies. Grâce à mes projets personnels et mes participations à des CTF, j'ai acquis de solides compétences techniques que je continue d'approfondir.
 
 ## Compétences
 
@@ -10,7 +10,7 @@ Je suis actuellement en Terminale NSI, passionné par le développement, la séc
 - **Python :** Intermédiaire/Avancé  
   Utilisé dans divers projets personnels et lors de challenges CTF.
 - **Flask (framework Python) :** Avancé  
-  Développement complet d'applications web, intégrant la gestion de la base de données et plus de 20 routes.
+  Développement complet d'applications web.
 - **HTML & CSS :** Intermédiaire/Avancé  
   Création et design de pages web esthétiques et fonctionnelles.
 - **JavaScript :** Débutant  
@@ -23,41 +23,36 @@ Je suis actuellement en Terminale NSI, passionné par le développement, la séc
   Connaissances en bases de données relationnelles, mises en pratique dans mes projets.
 
 ### Réseaux
-- **Réseaux (adressage IP, modèle OSI, tables de routage, protocole OSPF) :** Intermédiaire  
-  Bonne compréhension des concepts fondamentaux et avancés.
+- **Réseaux (adressage IP, modèle OSI, tables de routage, protocole OSPF, RIP) :** Intermédiaire  
 
 ### Systèmes & Outils
-- **Linux :** Avancé  
+- **Linux :** Intermédiaire  
   Utilisation quotidienne, gestion de machines virtuelles et PC sous Linux, notamment pour les CTF.
-- **Git/GitHub :** Intermédiaire  
-  Gestion collaborative de projets et versioning.
-- **Visual Studio Code :** Avancé  
+- **Visual Studio Code :** Intermédiaire/Avancé  
   Environnement de développement privilégié pour mes projets.
-- **Bash (sous Linux) :** Avancé  
-  Maîtrise des commandes et écriture de scripts pour l’automatisation.
+- **Bash :** Intermédiaire
+  Maîtrise des commandes.
 
 ## Projets & Réalisations
 
 - **Application Flask complète :**  
-  Développement d'une application web intégrant la gestion de base de données et plus de 20 routes.  
-  *Technologies utilisées : Python, Flask, HTML/CSS, MariaDB.*
+  Développement d'une application web intégrant la gestion de base de données et des routes.  
+  *Technologies utilisées : Python, Flask, HTML/CSS, MariaDB, javascript.*
 
 - **Application web pour un lycée :**  
-  Conception et développement d'une application web destinée à améliorer la communication et la gestion des informations pour un établissement scolaire.  
-  *Technologies utilisées : Python, Flask, HTML/CSS, MariaDB.*
+  Conception et développement d'une application web destinée a simplifiée l'administration et les statistiques.  
+  *Technologies utilisées : Python, Flask, HTML/CSS, MariaDB, javascript.*
 
 - **Compétitions CTF :**  
-  - **NBCTF :** 7e (finale)  
+  - **NBCTF :** 7e (finale)
+  - **PassTonHACKd'Abord:** 22e  
   - **CyberninjaCTF :** Finale  
   - **BreizhCTF :** 32e/118  
-  Participation à divers challenges en sécurité informatique, démontrant mes compétences en résolution de problèmes et en analyse de vulnérabilités.
+  
 
-- **Autres projets :**  
-  Expérimentations en Python, projets d'initiation en JavaScript, ainsi que des premiers travaux en PHP, C++ et Assembleur.
 
-## Contact
+## Profils
 
-- **GitHub :** [https://github.com/ton_nom_utilisateur](https://github.com/ton_nom_utilisateur)
-- **Email :** [ton.email@example.com](mailto:ton.email@example.com)
+- **Rootme :** [https://www.root-me.org/Gio](https://www.root-me.org/Gio-862846)
+- **Email :** [Giovani.legrand@gmail.com](mailto:Giovani.legrand@gmail.com)
 
-N'hésite pas à me contacter pour toute collaboration ou pour en savoir plus sur mes projets !
